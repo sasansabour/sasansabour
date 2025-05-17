@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sasan Sabour
+# 👋 Hi, I'm Sasan
 
 I'm an AI/ML engineer and backend developer with a strong interest in building robust, scalable applications and machine learning systems. 
 
